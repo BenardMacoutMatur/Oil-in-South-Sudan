@@ -51,13 +51,13 @@ Creating an article
 <tr>
       <td>2</td>
        <td>PETRO NAS</td>
-         <td><img src="[C:\Users\datas\Pictures\download.jpg](https://th.bing.com/th/id/R.1a6697a3d71528825047e62003487266?rik=EqZ1J6x%2ffNfsHg&pid=ImgRaw&r=0)" alt="malaysia" style width="200px" height="200"></td>
+         <td><img src="[[C:\Users\datas\Pictures\download.jpg](https://th.bing.com/th/id/R.1a6697a3d71528825047e62003487266?rik=EqZ1J6x%2ffNfsHg&pid=ImgRaw&r=0)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/2800px-Flag_of_Malaysia.svg.png)" alt="malaysia" style width="200px" height="200"></td>
          <td> 40 </td>
  </tr>
 <tr>
        <td>3</td>
         <td>NILEPET</td>
-          <td><img src="[C:\Users\datas\Pictures\South Sudan.jpg](https://th.bing.com/th/id/R.d4a874d3f822ae5d315e538fc815dac1?rik=BWaap%2bvo1jfJpQ&riu=http%3a%2f%2fs1.bwallpapers.com%2fwallpapers%2f2014%2f05%2f29%2fsouth-sudan-flag_121417772.jpg&ehk=5y3jbY0sXK2WZVlyhRalovlhGiQGfSVJCDtQifPbnNQ%3d&risl=&pid=ImgRaw&r=0)" alt="South Sudan" style width="200px" height="200px"></td>
+          <td><img src="https://i.pinimg.com/originals/30/84/4f/30844f2d12ca2747ba0782b03259df9c.png" alt="South Sudan" style width="200px" height="200px"></td>
             <td> 8 </td>
 </tr>
 <tr>
