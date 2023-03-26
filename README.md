@@ -51,7 +51,7 @@ Creating an article
 <tr>
       <td>2</td>
        <td>PETRO NAS</td>
-         <td><img src="[[C:\Users\datas\Pictures\download.jpg](https://th.bing.com/th/id/R.1a6697a3d71528825047e62003487266?rik=EqZ1J6x%2ffNfsHg&pid=ImgRaw&r=0)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/2800px-Flag_of_Malaysia.svg.png)" alt="malaysia" style width="200px" height="200"></td>
+         <td><img src="https://flagpedia.net/data/flags/w702/my.webp" alt="malaysia" style width="200px" height="200"></td>
          <td> 40 </td>
  </tr>
 <tr>
