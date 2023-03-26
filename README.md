@@ -51,19 +51,19 @@ Creating an article
 <tr>
       <td>2</td>
        <td>PETRO NAS</td>
-         <td><img src="https://flagpedia.net/data/flags/w702/my.webp" alt="malaysia" style width="200px" height="150px"></td>
+         <td><img src="https://flagpedia.net/data/flags/w702/my.webp" alt="malaysia" style width="200px" height="100px"></td>
          <td> 40 </td>
  </tr>
 <tr>
        <td>3</td>
         <td>NILEPET</td>
-          <td><img src="https://i.pinimg.com/originals/30/84/4f/30844f2d12ca2747ba0782b03259df9c.png" alt="South Sudan" style width="200px" height="150px"></td>
+          <td><img src="https://i.pinimg.com/originals/30/84/4f/30844f2d12ca2747ba0782b03259df9c.png" alt="South Sudan" style width="200px" height="100px"></td>
             <td> 8 </td>
 </tr>
 <tr>
          <td>4</td>
            <td>SINOPEC</td>
-             <td><img src="https://www.itia.ie/wp-content/uploads/2018/02/Chinese_Flag-Flags.mov.jpg" alt="China" style width="200px" height="150px"></td>
+             <td><img src="https://www.itia.ie/wp-content/uploads/2018/02/Chinese_Flag-Flags.mov.jpg" alt="China" style width="200px" height="100px"></td>
                <td> 6 </td>
 </tr>
 <tr>
