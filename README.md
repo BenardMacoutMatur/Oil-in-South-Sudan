@@ -6,7 +6,7 @@ Creating an article
   <title>WHY SOUTH SUDAN</title>
    </head>
     <body>
-      <h1>THE BRGINING OF THE END.</h1>
+      <h1>THE BEGINING OF THE END.</h1>
         <p>South Sudan is a country with potential. Each and every citizen has a unique vision for how the country  will progress,be it in 5 years, 10 years from now.The turmoil in the country began way before 2013, its been an ongoing issiue that has lasted more than 3 or 4 decades prior to December 2013</p>
           <p>Sharing into the strugles that each citizen has gone through is like chattering toa deaf person, who is this deaf person you might ask? well it's none other than ouresteemed leaders.</p>
 <ul><li>salva kiir <li>riek machar <li>Rebecca Nyandeng <li>James Wani Igga <li>All Government Officials</ul>
